@@ -30,15 +30,15 @@ Click any icon below to explore my GitHub Lists, organized by category:
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/stars/adaza-ru/lists/python-projects">
+      <a href="https://github.com/stars/adaza-ru/lists/c-projects">
         <img src="https://skillicons.dev/icons?i=c" width="70" alt="C"/>
-        <br><b>Python</b>
+        <br><b>C</b>
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/stars/adaza-ru/lists/c-projects">
+      <a href="https://github.com/stars/adaza-ru/lists/python-projects">
         <img src="https://skillicons.dev/icons?i=python" width="70" alt="Python"/>
-        <br><b>C</b>
+        <br><b>Python</b>
       </a>
     </td>
   </tr>
