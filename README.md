@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5407F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daza;42+Málaga+Student;C+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100&color=5407F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daza;42+Málaga+Student;C+%7C+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,6 +12,7 @@
 
 - 🎓 Student at 42 Málaga (intra: `adaza-ru`)
 - 🐍 Currently focused on **C** and **Python**
+- 🧪 Reskilling from chemistry to software development.
 - 📚 Building educational and documentation repositories
 
 ---
@@ -78,4 +79,12 @@ lives on GitHub, and you only add a new icon when you open up a new category.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,git,github,ubuntu,debian,vscode,vim" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=adaza-ru&theme=tokyonight&hide_border=true"/>
 </p>
