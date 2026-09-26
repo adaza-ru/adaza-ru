@@ -31,13 +31,13 @@ Click any icon below to explore my GitHub Lists, organized by category:
     </td>
     <td align="center" width="150">
       <a href="https://github.com/stars/adaza-ru/lists/python-projects">
-        <img src="https://skillicons.dev/icons?i=python" width="70" alt="Python"/>
+        <img src="https://skillicons.dev/icons?i=c" width="70" alt="Python"/>
         <br><b>Python</b>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/stars/adaza-ru/lists/c-projects">
-        <img src="https://skillicons.dev/icons?i=c" width="70" alt="C"/>
+        <img src="https://skillicons.dev/icons?i=python" width="70" alt="C"/>
         <br><b>C</b>
       </a>
     </td>
