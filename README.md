@@ -29,7 +29,7 @@ Click any icon below to explore my GitHub Lists, organized by category:
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/stars/adaza-ru/lists/42-cursus">
+      <a href="https://github.com/stars/adaza-ru/lists/personal-projects">
         <img src="https://cdn-icons-png.flaticon.com/128/10604/10604829.png" width="70" alt="42 School"/>
         <br><b>Personal Projects</b>
       </a>
