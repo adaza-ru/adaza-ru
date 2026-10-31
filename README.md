@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100&color=5407F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daza;42+Málaga+Student;C+%7C+Python" alt="Typing SVG" />
+  <img height="250" src="donut.svg"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=100&color=5407F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daza;42+Málaga+Student;C+%7C+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -77,13 +81,6 @@ Click any icon below to explore my GitHub Lists, organized by category:
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,git,github,ubuntu,debian,vscode,vim" />
+  <img src="https://skillicons.dev/icons?i=c,python,git,vim,ubuntu,debian" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=adaza-ru&theme=tokyonight&hide_border=true"/>
-</p>
